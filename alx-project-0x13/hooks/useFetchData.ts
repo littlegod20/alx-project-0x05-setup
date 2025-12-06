@@ -46,4 +46,3 @@ const useFetchData = <T, R>() => {
 };
 
 export default useFetchData;
-
